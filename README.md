@@ -51,7 +51,7 @@ Eclipse (Java IDEs)
 
 VS Code (for frontend/React)
 
-Connect with me:
+📫 Connect with me
 
 
 <p align="left">
