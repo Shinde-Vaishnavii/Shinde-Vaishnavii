@@ -62,6 +62,7 @@ Connect with me:
     <img src="https://skillicons.dev/icons?i=github" width="40" height="40"/>
   </a>
   <a href="mailto:vaishnavicshinde2@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" width="40" height="40"/>
-  </a>
+  <img src="https://skillicons.dev/icons?i=gmail" width="40" height="40"/>
+</a>
+
 </p>
