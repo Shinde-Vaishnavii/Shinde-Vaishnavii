@@ -1,9 +1,11 @@
 👋 Hi, I'm Vaishnavi!
 
-🚀 Aspiring Java Full Stack Developer
+🚀 Aspiring Java Full Stack Developer.
 💻 Currently expanding a Java Full Stack Development and spring framework.
+
 ⚡ Passionate about Backend Development, Databases, and Building Scalable Applications
-🌱 Currently learning Java | Spring Boot | Hibernate | SQL | React
+🌱 Currently learning Java | Spring Boot | Hibernate | SQL | React.
+
 🎯 Goal: To contribute to impactful projects and grow as a professional developer
 
 🔹 Programming Languages
@@ -52,7 +54,7 @@ VS Code (for frontend/React)
 Connect with me:
 
 
-<p align="center">
+<p align="left">
   <a href="https://www.linkedin.com/in/vaishnavi-shinde-b26729233" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" width="40" height="40"/>
   </a>
